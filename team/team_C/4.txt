@@ -1,1 +1,0 @@
-The "Joel Test" for Data Science teams: a highly irresponsible sloppy test to rate quality of teams
